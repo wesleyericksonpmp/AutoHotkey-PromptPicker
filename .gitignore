@@ -1,0 +1,9 @@
+# Per-user files the script creates
+settings.ini
+favorites.ini
+usage.ini
+
+# Backups, Excel lock files, shortcuts
+*_backup_*
+~$*.xlsx
+*.lnk
