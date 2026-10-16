@@ -1,0 +1,4 @@
+* text=auto
+*.ahk text eol=crlf
+*.xlsx binary
+*.png binary
